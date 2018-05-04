@@ -4,7 +4,7 @@ int main()
 {
 	double a;
 	cin >> a;
-	cout << a * a << endl;
+	cout << " вадрат: " << a * a << endl;
 	system("pause");
 	return 0;
 }
