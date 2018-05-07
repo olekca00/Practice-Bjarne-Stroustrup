@@ -2,8 +2,9 @@
 
 int main()
 {
-	cout << "Hello world\n";
+	cout << "Hello, programming!\n" 
+		 << "Here we go!\n";
 
-	system("pause");
+	keep_window_open();
 	return 0;
 }
